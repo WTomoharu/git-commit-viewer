@@ -1,0 +1,9 @@
+# misc
+.DS_Store
+*.pem
+
+# directory
+/dist
+
+# custom
+@ignore
